@@ -1,0 +1,11 @@
+{
+  "name": "studysaathi-ai",
+  "version": "1.0.0",
+  "description": "AI study assistant: explain notes, summarize, and practice quizzes, powered by Google Gemma via the Gemini API. Zero dependencies.",
+  "main": "studysaathi.js",
+  "scripts": { "start": "node studysaathi.js" },
+  "engines": { "node": ">=18" },
+  "keywords": ["study", "education", "gemma", "gemini-api", "quiz", "notes"],
+  "author": "Team Hackers (Vishisht Viraj, Kundan Kumar, Ayush Raj, Krish Chand, Nelakurthi Vikranth)",
+  "license": "MIT"
+}
